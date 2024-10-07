@@ -1,0 +1,2 @@
+Unable to load addon script from path: 'res://addons/libre_trainsim_modding_tools/plugin.gd'. This might be due to a code error in that script.
+Disabling the addon at 'res://addons/libre_trainsim_modding_tools/plugin.cfg' to prevent further errors.
