@@ -2,29 +2,10 @@
 
 [Libre Train Sim](https://libretrainsim.de) is a free and open source train driving simulator created using the Godot Engine. It is licensed under the [GPL v3 license](LICENSE).
 
-**[Play](https://www.libretrainsim.de/download/)** ► **[Contribute](https://github.com/Libre-TrainSim/Libre-TrainSim/wiki/Contribute-to-Libre-TrainSim)**
+## Warning
+THIS IS A FORK FOR STUDY AND EXPERIMENTATION, FOR THE OFFICIAL PROJECT PLEASE REFER TO THE LINKS BELOW:
 
----
-
-## About
-
-This project was initially created by Jean28518. As the project attracted new contributers, we moved the repository into the [Libre Train Sim Organisation](https://github.com/Libre-TrainSim/). We want to create a modern, fully free train driving simulator running on Linux, Mac, Windows, and Android.
-
-## Leave Feedback
-
-Nothing is perfect. If you found a bug, please feel encouraged to create a [bug report](https://github.com/Libre-TrainSim/Libre-TrainSim/issues/new/). If you want to give more detailed feedback, you can fill out this [form](https://www.libretrainsim.org/feedback/).
-
-**Thank you! :heart:**
-
-## Development Progress
-
-[Follow the development here](https://github.com/Libre-TrainSim/Libre-TrainSim/projects)
-
-## Installation (for contributers)
-
-Fork and clone the repository. Install the latest version of [Godot](https://godotengine.org/download). Start Godot and import the cloned folder.
-
-## Links
+## Official Links
 
 - Website: <https://www.libretrainsim.de/>
 - GitHub: <https://www.github.com/Libre-TrainSim/Libre-TrainSim>
